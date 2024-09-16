@@ -1,4 +1,4 @@
-# better-node-print
+# easier-http-server
 [![Version npm](https://img.shields.io/npm/v/easier-http-server.svg?logo=npm)](https://www.npmjs.com/package/easier-http-server)
 [![Downloads npm](https://img.shields.io/npm/d18m/easier-http-server.svg?logo=npm)](https://www.npmjs.com/package/easier-http-server)
 
