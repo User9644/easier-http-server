@@ -1,0 +1,34 @@
+{
+  "name": "easier-http-server",
+  "version": "1.0.0",
+  "description": "Easier HTTP Server",
+  "license": "MIT",
+  "author": "User 9644",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/User9644/easier-http-server.git"
+  },
+  "keywords": [
+    "http",
+    "server",
+    "nodejs",
+    "easy"
+  ],
+  "bugs": {
+    "url": "https://github.com/User9644/easier-http-server/issues"
+  },
+  "homepage": "https://github.com/User9644/easier-http-server#readme",
+  "main": "index.js",
+  "exports": {
+    ".": {
+      "require": "./index.js"
+    },
+    "./package.json": "./package.json"
+  },
+  "engines": {
+    "node": ">=1.0.0"
+  },
+  "files": [
+    "index.js"
+  ]
+}
